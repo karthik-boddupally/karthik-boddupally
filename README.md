@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working as Intern at RCI-DRDO for 3 Months.<br>Data Science & Analytics Enthusiast 
+I'm currently working as Intern at RCI-DRDO for 3 Months.<br>Data Science & Analytics Enthusiast <br>
 Certified Intern @ Future Interns <br> Final-Year B.Tech Student @ Sreyas Institute of Engineering and Technology
 
 ## 🌐 Socials:
