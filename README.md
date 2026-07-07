@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working as Intern at RCi-DRDO where I will be working on a project "Technology Validation of Data Warehouse Architecture for RCI's Intranet" for the period of 30th june 2026 to 30th september 2026 in offline mode. <br>I have completed an internship from FutureInterns on Data Science & Analytics<br>Data Science & Analytics Enthusiast 
+I'm currently working as Intern at RCI-DRDO for 3 Months. <br>I have completed an internship from FutureInterns on Data Science & Analytics<br>Data Science & Analytics Enthusiast 
 
 
 ## 🌐 Socials:
