@@ -1,6 +1,6 @@
 # 💫 About Me:
-I'm currently working as Intern at RCI-DRDO for 3 Months. <br>I have completed an internship from FutureInterns on Data Science & Analytics<br>Data Science & Analytics Enthusiast 
-
+I'm currently working as Intern at RCI-DRDO for 3 Months.<br>Data Science & Analytics Enthusiast 
+Certified Intern @ Future Interns <br> Final-Year B.Tech Student @ Sreyas Institute of Engineering and Technology
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/karthik-boddupally-824b70290/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:karthikboddupally0@gmail.com) 
